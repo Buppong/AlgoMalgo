@@ -4,7 +4,6 @@
 
 //스택수열
 //스택에 push 되는 순서는 오름차순이다
-// x
 
 using namespace std;
 
