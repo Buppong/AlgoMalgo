@@ -17,10 +17,10 @@ int main() {
     cin >> n;
 
 
-    int m = 0;
+    int m = 0; //스택이들어간마지막
 
     while( n--){
-        int x;
+        int x; // m에서 x까지 해서
         cin >> x;
         if (x > m){
             while (x> m){
