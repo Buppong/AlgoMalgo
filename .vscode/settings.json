@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "xiosbase": "cpp",
+        "exception": "cpp",
+        "deque": "cpp",
+        "stack": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp"
+    }
+}
